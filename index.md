@@ -1,0 +1,60 @@
+# hillmanheathb.github.io
+<!-- Happy Birthday Card -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Victoria's Birthday Card</title>
+  <style>
+    h1.solid{
+      max-width: 590px;
+      margin: auto; /* Auto center horizontally */
+      margin-top: 25px;
+      
+      padding: 15px;
+      border: solid darkorange 3px;
+      border-radius: 15px; /* curved corners */
+      background-color: darkgrey;
+      /*margin: 25px 450px; /*top/bottom right/left*/
+      
+      text-align: center;
+      color: turquoise;
+      text-shadow: 2px 2px 5px teal;
+      font-weight: bold;
+      font-variant: small-caps;
+      font-size: 45px;
+      overflow: auto;
+      
+      
+    }
+    body{
+      background-color: gray;
+      text-align: center;
+      color: limegreen;
+      text-shadow: 2px 2px 5px teal;
+      font-weight: bold;
+      font-variant: small-caps;
+      font-size:35px;
+    }
+    img{
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+  </style>
+</head>
+
+<body>
+  
+<h1 class="solid">
+
+  Victoria! <br>Happy Birthday!!!
+
+</h1>
+  <br>
+  <img src="vBday.gif" width="500" height="350">
+  <div class="desc"> Here's to a SEXY 2021!</div>
+
+
+</body>
+</html>
